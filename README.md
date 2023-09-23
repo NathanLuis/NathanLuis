@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu perfil 😁
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanLuis&theme=radical&hide_border=false)<br/>
 ## Sou Bem Iniciante Mas Espero ter um bom desempenho nessas linguagens de programação 
 <div style="display: inline_block"><br>
